@@ -10,5 +10,5 @@ RUN pip install -r requirements.txt
 
 COPY . .
 
-CMD python3 pinaem_serv.py
+CMD python pinaem_serv.py
 
